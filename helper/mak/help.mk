@@ -11,14 +11,10 @@ help:
 	@echo
 	@echo '	$$ make fetch-all'
 	@echo
-	@echo '	$$ make fetch-grub-theme-bigsur-remix'
-	@echo
 	@echo '	$$ make fetch-grub-theme-monterey-remix'
 	@echo
 	@echo '	$$ make fetch-grub-theme-obs-remix'
 	@echo
-	@echo
-	@echo '	$$ make apply-grub-theme-bigsur-remix'
 	@echo
 	@echo '	$$ make apply-grub-theme-monterey-remix'
 	@echo
