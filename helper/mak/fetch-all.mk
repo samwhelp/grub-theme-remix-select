@@ -1,4 +1,4 @@
 
 
-fetch-all: fetch-grub-theme-monterey-remix fetch-grub-theme-obs-remix
+fetch-all: fetch-grub-theme-score-remix fetch-grub-theme-glass-remix fetch-grub-theme-cover-remix fetch-grub-theme-monterey-remix fetch-grub-theme-obs-remix
 .PHONY: fetch-all

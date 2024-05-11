@@ -11,6 +11,8 @@ help:
 	@echo
 	@echo '	$$ make fetch-all'
 	@echo
+	@echo '	$$ make fetch-grub-theme-score-remix'
+	@echo
 	@echo '	$$ make fetch-grub-theme-glass-remix'
 	@echo
 	@echo '	$$ make fetch-grub-theme-cover-remix'
@@ -19,6 +21,10 @@ help:
 	@echo
 	@echo '	$$ make fetch-grub-theme-obs-remix'
 	@echo
+	@echo
+	@echo
+	@echo
+	@echo '	$$ make apply-grub-theme-score-remix'
 	@echo
 	@echo '	$$ make apply-grub-theme-glass-remix'
 	@echo
