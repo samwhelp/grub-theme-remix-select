@@ -17,6 +17,10 @@ help:
 	@echo
 	@echo '	$$ make fetch-grub-theme-cover-remix'
 	@echo
+	@echo '	$$ make fetch-grub-theme-banner-remix'
+	@echo
+	@echo '	$$ make fetch-grub-theme-cross-remix'
+	@echo
 	@echo '	$$ make fetch-grub-theme-monterey-remix'
 	@echo
 	@echo '	$$ make fetch-grub-theme-obs-remix'
@@ -29,6 +33,10 @@ help:
 	@echo '	$$ make apply-grub-theme-glass-remix'
 	@echo
 	@echo '	$$ make apply-grub-theme-cover-remix'
+	@echo
+	@echo '	$$ make apply-grub-theme-banner-remix'
+	@echo
+	@echo '	$$ make apply-grub-theme-cross-remix'
 	@echo
 	@echo '	$$ make apply-grub-theme-monterey-remix'
 	@echo
